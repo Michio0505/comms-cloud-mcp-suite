@@ -1,0 +1,40 @@
+{
+  "name": "@kccs/comms-cloud-mcp-suite",
+  "version": "0.1.0-alpha.0",
+  "description": "MCP Server for Salesforce Communications Cloud (EPC / OM) — Vlocity CMT and standard NS aware.",
+  "license": "SEE LICENSE IN LICENSE",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "comms-cloud-mcp-suite": "./dist/server.js"
+  },
+  "main": "./dist/server.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/server.ts",
+    "test:m1": "tsx scripts/test-m1.ts",
+    "test:m2": "tsx scripts/test-m2.ts",
+    "test:m3": "tsx scripts/test-m3.ts",
+    "test:m4": "tsx scripts/test-m4.ts",
+    "test:m5": "tsx scripts/test-m5.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.18.0",
+    "@salesforce/core": "^8.24.3",
+    "zod": "^3.25.0",
+    "dotenv": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.16.5",
+    "tsx": "^4.19.0",
+    "typescript": "^5.9.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
