@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "comms-cloud-mcp-suite": {
+      "command": "node",
+      "args": ["./dist/server.js"]
+    }
+  }
+}

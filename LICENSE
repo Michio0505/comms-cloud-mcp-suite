@@ -1,0 +1,110 @@
+Comms Cloud MCP Suite — License v1.0
+=====================================
+
+Copyright (c) 2026 Michio Sekido. All Rights Reserved.
+
+
+OVERVIEW
+--------
+This software (the "Software") is provided under a proprietary license.
+The Software is currently distributed by invitation only for evaluation,
+testing, and feedback purposes. Future relicensing under open source
+terms is at the sole discretion of the copyright holder.
+
+
+PERMITTED USES
+--------------
+Subject to the terms of this license, the copyright holder grants
+recipients invited by the copyright holder a non-exclusive,
+non-transferable, revocable, royalty-free license to:
+
+1. Read and review the Software's source code.
+2. Install and execute the Software in non-production environments
+   for evaluation, testing, and feedback purposes.
+3. Provide feedback, bug reports, and suggestions to the copyright
+   holder.
+
+
+PROHIBITED USES
+---------------
+Without prior written consent from the copyright holder, you may NOT:
+
+1. Use the Software, or any derivative work thereof, for commercial
+   purposes, including but not limited to:
+   - Production deployments
+   - Service offerings to third parties (including consulting
+     engagements where the Software is used as a deliverable or
+     embedded tool)
+   - Integration into commercial products
+2. Redistribute the Software, in whole or in part, in original or
+   modified form.
+3. Sublicense the Software to any third party.
+4. Remove or alter any copyright notices, license terms, or
+   attribution within the Software.
+
+
+CONTRIBUTIONS
+-------------
+Any contributions (including but not limited to code, documentation,
+suggestions, or feedback) submitted to this project are subject to a
+Contributor License Agreement (CLA). By submitting a contribution,
+you grant the copyright holder a perpetual, worldwide, non-exclusive,
+royalty-free, irrevocable license to use, modify, and redistribute the
+contribution as part of the Software, including under future license
+terms.
+
+The copyright holder retains the right to determine inclusion or
+exclusion of any submitted contribution.
+
+
+FUTURE RELICENSING
+------------------
+The copyright holder reserves the right to relicense this Software
+under different terms, including open source licenses (such as MIT
+or Apache 2.0), at any future date. Such relicensing will apply only
+to versions released after the relicensing announcement; earlier
+versions remain subject to the terms in effect at the time of their
+release.
+
+
+ORGANIZATIONAL VEHICLE
+----------------------
+The copyright holder is currently exploring this Software at an
+individual capacity. The organizational vehicle for any continued
+development (e.g., direct ownership, assignment to an affiliated
+corporate entity, or other arrangement) is subject
+to change. Any such reassignment of copyright will be communicated
+to current licensees in writing.
+
+
+COMMERCIAL LICENSING
+--------------------
+For commercial use, production deployment, redistribution rights,
+or partnership inquiries (including OEM, white-label, or joint
+product arrangements), please contact the copyright holder to
+negotiate a separate commercial license agreement.
+
+
+NO WARRANTY
+-----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
+FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+CONTACT
+-------
+For all inquiries (commercial licensing, contributions, feedback,
+or general questions), please contact:
+
+  Michio Sekido
+  michio-sekido@kccs.co.jp
+
+  (Note: The contact identity may shift to an organizational entity
+  in the future; current licensees will
+  be notified of any change.)
