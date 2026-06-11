@@ -14,4 +14,4 @@ Format:
 - Michio Sekido — project creator and maintainer
 
 ## Collaborators & Contributors
-<!-- Add your entry below via Pull Request -->
+- Aress Software & Education Technologies (P) Ltd. - Salesforce Communications Cloud MCP delivery collaboration (Layer-1 release) — https://www.aress.com
